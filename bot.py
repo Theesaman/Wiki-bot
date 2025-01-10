@@ -6,7 +6,7 @@ from aiogram.filters import CommandStart, Command
 from aiogram.types import Message
 from wiki import wiki
 
-TOKEN = "7209813915:AAHApz2B2TS0jwEUQttoC-MSXf-ckkCeNzI"
+TOKEN = ""
 
 dp = Dispatcher()
 
